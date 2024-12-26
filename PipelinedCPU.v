@@ -2,7 +2,6 @@
 
 // Template for Northwestern - CompEng 361 - Lab4
 // Groupname: RISCitAll
-// NetIDs: igd2201, psb1603
 
 // Some useful defines...please add your own
 `define WORD_WIDTH 32
