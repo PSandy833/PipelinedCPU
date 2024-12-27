@@ -1,4 +1,3 @@
-// Testbench for Northwestern - CompEng 361 - Lab4
 `define CHAR_WIDTH 8
 `define MAX_CHAR 80
 
